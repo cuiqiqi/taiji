@@ -43,3 +43,5 @@ haha
 
 #qq-sts i want to stude Git
 #master third somthing 
+
+#sts confilct
