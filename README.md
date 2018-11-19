@@ -18,11 +18,12 @@ sasa
 
 i want change
 haha
-
 #demo public void String(){
- System.out.prontln("我在学习使用Git")；
+
+ 	System.out.prontln("我在学习使用Git");
 }
 
+#demo public void people(){ }
 haha
 
 #qq-sts change
